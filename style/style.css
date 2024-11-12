@@ -1,0 +1,74 @@
+#info>a {
+display: block;
+
+}
+
+#compétence {
+    color: red;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
+
+#formatio {
+    color: red;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
+
+#form {
+color: red;
+flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#loisirs {
+    color: red;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.548);
+    align-items: stretch;
+    height: 20vh;
+    
+    
+}
+
+#titres {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.295);
+}
+
+li {
+    padding: 1px;
+    margin: 40px;
+    align-items: center;
+}
+
+article {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
